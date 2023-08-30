@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: darkwhite220@gmail.com / [Twitter](https://twitter.com/darkwhite220)
 -->
 
-- 🔭 I’m currently working with Python and Android (Kotlin) languages
+- 🔭 I’m currently working with Android (Kotlin)
+- 🤓 I know Python
 - 📫 How to reach me: 
   darkwhite220@gmail.com 
   [Twitter](https://twitter.com/darkwhite220)
   [LinkedIn](https://www.linkedin.com/in/dark-white-42775218a/)
-- 👨‍💻 I am passionate about programming in general & enjoy learning. 
+- 👨‍💻 Always doing what I enjoy, learning. 
