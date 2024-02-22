@@ -20,3 +20,6 @@ Here are some ideas to get you started:
   [Twitter](https://twitter.com/darkwhite220)
   [LinkedIn](https://www.linkedin.com/in/dark-white-42775218a/)
 - 👨‍💻 Always doing what I enjoy, learning. 
+
+Repos you may like:
+- [Compose MkKit FaceDetection](https://github.com/darkwhite220/ComposeFaceDetection)
