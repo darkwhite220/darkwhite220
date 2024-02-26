@@ -9,4 +9,4 @@
 - 👨‍💻 Always doing what I enjoy, learning. 
 
 ### Repos you may like:
-- [🤖 Compose MlKit FaceDetection](https://github.com/darkwhite220/ComposeFaceDetection)
+- [🤖 Compose MlKit FaceDetection (Front/Back camera, Device/Face rotation, Take Photo/Video while detecting)](https://github.com/darkwhite220/ComposeFaceDetection)
