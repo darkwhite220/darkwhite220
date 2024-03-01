@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with Android (Kotlin, Compose)
 - 🤓 I know Java, Xml & Python
-- 👨‍💻 Always doing what I enjoy, learning.
+- 👨‍💻 Always doing what I enjoy, learning & open-sourcing.
   
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
