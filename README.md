@@ -17,7 +17,7 @@
 
 ## Hire me! 👨‍💻
 
-You need custom made app/feature?
+Need custom made app/feature?
 
 <p>
 <a href="https://www.upwork.com/workwith/abderrahima" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Upwork_Logo.svg" alt="Upwork" style="height: 60px !important;width: 223px !important;" ></a>
